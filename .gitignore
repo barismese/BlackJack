@@ -1,0 +1,9 @@
+# ignore png files
+*.png
+
+# ignore class files
+*.class
+*~
+
+# ignore all logs
+**/logs
